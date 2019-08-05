@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button alertBtn;
 
+    String base;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
