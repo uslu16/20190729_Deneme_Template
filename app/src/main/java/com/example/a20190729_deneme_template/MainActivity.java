@@ -10,10 +10,15 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    // ssh -T GITHUB-uslu16@github.com
 
     Button alertBtn;
 
     String base;
+    String sil;
+    String si1l;
+    String branchSon; 
+
 
     String ll;
 
